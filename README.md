@@ -19,6 +19,7 @@
      
   </div>
 </div>
+<hr>
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mayuri008&show_icons=true&theme=radical">
